@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "764109271847",
+    "project_id": "crafie-bb57f",
+    "storage_bucket": "crafie-bb57f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764109271847:android:f2812a81bc4cd5217d2f02",
+        "android_client_info": {
+          "package_name": "com.ministore.crafie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764109271847-qt0vbkl42oavjrg00k782e81si3csl39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWjGo1TEdrUl-xiYLsdkwLtVlRq31BroY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764109271847-qt0vbkl42oavjrg00k782e81si3csl39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
